@@ -9,7 +9,17 @@ Some things about me :<br/>
 :two: Full stack developer<br/>
 :three: Proficient with PHP, JavaScript, CSS, and Python.<br/> 
 :five: I’m currently working on the <span>Pentesting Web Application</span><br/> 
-:six: How to reach me : <a href="mailto:yoosefashraf28@gmail.com">Mail me at</a>
+:six: How to reach me : 
+<div align="left">
+  <a href="yoosefashraf28@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCsCxdaEg9AUJHRcUBslsy1Q" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yoosefashraf?tab=repositories)
