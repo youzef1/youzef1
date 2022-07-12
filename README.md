@@ -5,10 +5,10 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yoosefashraf?tab=repositories)
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
-:one: Pentesting Web Application<br/>
-:two: Full stack developer<br/>
-:three: Proficient with PHP, JavaScript, CSS, and Python.<br/> 
-:five: I’m currently working on the <span>Pentesting Web Application</span><br/> 
+:one:I have some experience with "Classic control" <br/>
+:two: I am good at programming and using Siemens "Plc" devices<br/>
+:three: Proficient with Ladder Logic Diagram (LD), ..., CSS, and Python.<br/> 
+:five: I’m currently working on the <span>Soon..</span><br/> 
 :six: How to reach me : 
 <div align="left">
   <a href="yoosefashraf28@gmail.com" target="_blank">
