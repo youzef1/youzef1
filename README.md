@@ -5,10 +5,8 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yoosefashraf?tab=repositories)
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
-:one:I have some experience with "Classic control" <br/>
-:two: I am good at programming and using Siemens "Plc" devices<br/>
-:three: Proficient with Ladder Logic Diagram (LD), ..., CSS, and Python.<br/> 
-:five: I’m currently working on the <span>Soon..</span><br/> 
+:one:I have some experience with "Web development"<br/>
+:three: Proficient with Ladder Logic Diagram (LD), html, CSS, and Python.<br/> 
 :six: How to reach me : 
 <div align="left">
   <a href="yoosefashraf28@gmail.com" target="_blank">
