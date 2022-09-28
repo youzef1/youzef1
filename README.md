@@ -5,9 +5,11 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yoosefashraf?tab=repositories)
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
-:one:I have some experience with Front-end web development<br/>
-:three: Proficient with Ladder Logic Diagram (LD), html, CSS, and Python.<br/> 
-:six: How to reach me : 
+• Name: Youssef Ashraf Othman.<br/> 
+• Nationality: Egyptian.<br/> 
+• Age: 16 Years Old.<br/> 
+:one: Proficient with html, CSS, and Python.<br/> 
+:two: How to reach me : .<br/> 
 <div align="left">
   <a href="yoosefashraf28@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
