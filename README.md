@@ -7,8 +7,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 Some things about me :<br/>
 • Name: Youssef Ashraf Othman.<br/> 
 • Nationality: Egyptian.<br/> 
-• Age: 16 Years Old.<br/> 
-:one: Proficient with html, CSS, and Python.<br/> 
+• Age: 17 Years Old.<br/> 
+:one: html, CSS, and Python.<br/> 
 :two: How to reach me : .<br/> 
 <div align="left">
   <a href="yoosefashraf28@gmail.com" target="_blank">
