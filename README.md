@@ -8,7 +8,7 @@ Some things about me :<br/>
 • Name: Youssef Ashraf Othman.<br/> 
 • Nationality: Egyptian.<br/> 
 • Age: 17 Years Old.<br/> 
-:one: html, CSS, and Python.<br/> 
+:one: html, CSS, and C#<br/> 
 :two: How to reach me : .<br/> 
 <div align="left">
   <a href="yoosefashraf28@gmail.com" target="_blank">
