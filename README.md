@@ -1,4 +1,3 @@
-<img align ="right" src="https://gpvc.arturio.dev/youzef1" alt="basemax">
 <h1 align="center">Hi 👋, I'm Youssef Ashraf</h1>
 
 [![-----------------------------------------------------](
@@ -11,7 +10,7 @@ Some things about me :<br/>
 :one: Python , C#<br/> 
 :two: How to reach me : <br/> 
 <div align="left">
-<a href="mailto:yoosefashraf28@gmail.com">
+<a href="mailto:yoosef.emt@gmail.com" title="yoosef.emt@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
 </a>
 
