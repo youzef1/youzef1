@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Youssef Ashraf</h1>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Youssef+Ashraf!;Python+%26+C%23+Enthusiast;Welcome+to+my+profile!&center=true&size=25&color=F7F7F7"></p>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/youzef1?tab=repositories)
-<b>Welcome !! </b><br/>
+<br/>
 Some things about me :<br/>
 • Name: Youssef Ashraf Othman.<br/> 
 • Nationality: Egyptian.<br/> 
